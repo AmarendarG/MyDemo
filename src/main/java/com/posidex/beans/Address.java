@@ -9,6 +9,12 @@ public class Address {
 	private String country;
 	
 	private String git;
+	provate String git2;
+	public void getMessage(String message)
+{
+	
+	System.out.println("git hub....");
+}
 	
 public void getMessage()
 {
