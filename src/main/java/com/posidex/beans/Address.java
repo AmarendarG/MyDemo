@@ -7,7 +7,14 @@ public class Address {
 	private String state;
 
 	private String country;
-
+	
+	private String git;
+	
+public void getMessage()
+{
+	
+	System.out.println("git hub");
+}
 	public String getCity() {
 		return city;
 	}
